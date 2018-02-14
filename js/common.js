@@ -16,7 +16,6 @@ $(function() {
       //renderer = PIXI.autoDetectRenderer(
       //renderer = new PIXI.WebGLRenderer(
       renderer = new PIXI.CanvasRenderer(
-      //renderer = PIXI.WebGLRenderer(
         sliderWidth,
         sliderHeight,
         //{transparent: true},
